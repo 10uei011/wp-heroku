@@ -23,7 +23,7 @@
   define('DB_USER', 'bcd9935228bc0c');
   define('DB_PASSWORD', '22c61dcd');
   define('DB_HOST', 'us-cdbr-iron-east-04.cleardb.net');
-  define('DB_CHARSET', 'utf-8');
+  define('DB_CHARSET', 'utf8');
   define('DB_COLLATE', '');
 
 
